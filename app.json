@@ -11,19 +11,19 @@
    "success_url":"/",
    "env":{
       "NAME":{
-         "description":"Name of your bot",
+         "description":"GAMMING RASH",
          "required":true
       },
       "PREFIX":{
-         "description":"Prefix of your bot",
+         "description":"",
          "required":true
       },
       "MODS":{
-         "description":"ඔබට bot සඳහා පරිපාලක වීමට අවශ්‍ය පරිශීලකයින්ගේ දුරකථන අංක (+ නොමැතිව ජාත්‍යන්තර ආකෘතියෙන් තිබිය යුතු අතර බහු අංක කොමාවකින් වෙන් කළ යුතුය. \",\")",
+         "description":"94717775628",
          "required":true
       },
       "URL":{
-         "description":"MongoDB URL එක ඇතුලත් කරන්න",
+         "description":"mongodb+srv://rash2:2006r@cluster0.tgrcspa.mongodb.net/",
          "required":true
       },
           "GPT":{
@@ -31,11 +31,11 @@
          "required":false
       },
       "BG_API_KEY":{
-         "description":"A key used for www.remove.bg",
+         "description":"kjqGenkg1sR2QUZ15jsi4UWu",
          "required":false
       },
       "PORT":{
-         "description":"3000 දෙන්න",
+         "description":"3000",
          "required":true
       }
    },
