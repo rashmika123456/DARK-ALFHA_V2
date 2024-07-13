@@ -1,7 +1,5 @@
-
-<div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&background=642D2DAE&center=true&vCenter=true&width=435&lines=The+is+Dark+Alfha+WhatsApp+Use+Bot;Created+by++Deep+Eagle" alt="Typing SVG" /></a>
-                                                                                                                                                                      </div>                                                                    
+# COMING SOON
+                           
   <div align="center">
   <img src="https://i.ibb.co/frfFSTL/1691320469926.jpg" width="150" height="150" border="0" alt="PFP">
 
@@ -11,7 +9,7 @@
 
 ---
 
-<p align="center"> Dark Alfha සදහා භාවිතා කරපු project එක
+<p align="center"> The project used for Dark Alpha
   <a href="https://github.com/Deep-Eagle/Baileys">Baileys.</a>
 </p>
 
@@ -47,27 +45,27 @@ npm install
 
 ### Setup
 
-MONGODB URL එකක් අනිවාර්ය බැවින් MongoDB URL එකක් සාදාගන්නා ආකාරය tutorial video එකෙන් බලන්න
-
+Since a MONGODB URL is mandatory, watch the tutorial video on how to create a MongoDB URL
 ```bash
 PREFIX=!
-MODS=94763407452
+MODS=49#####
 PORT=3000
 WRITE_SONIC=
 BG_API_KEY=
-SESSION=ඔයා කැමති එකක් දෙන්න
+SESSION=Give me the one you like
 URL=mongodb+srv://<username>:<password>@cluster0.xxwc771.mongodb.net/?retryWrites=true&w=majority
 ```
 
 ##LAST UPDATE
 ```bash
-DATE = 2023/8/30
-TIME = 2:24 PM
+DATE = 2023/11/11
+TIME = 12:45 am
 ```
 
 <div align="center">
 
 ### Thanks for team members
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=43FF0D&background=5BFF0000&center=true&vCenter=true&multiline=true&width=435&height=120&lines=DARK+ALFHA+TEME;MR+Ruchira;MR++SayitamAnuwa;MR+Madusanka" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BF700&background=00FFF300&multiline=true&random=false&width=435&height=100&lines=Dark+Alfha+group;MR+Vihanga+Theekshana+;MR+Ruchira+" alt="Typing SVG" /></a>
+
 </div>
